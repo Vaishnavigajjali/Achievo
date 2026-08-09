@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1786248058262,
+    "username": "hi",
+    "password": "1234",
+    "streak": 1,
+    "lastLoginDate": "2026-08-09"
+  },
+  {
+    "id": 1786247697708,
+    "username": "Ganesh",
+    "password": "1234",
+    "streak": 0,
+    "lastLoginDate": null
+  },
+  {
+    "id": 1786247138169,
+    "username": "proxyuser",
+    "password": "pass",
+    "streak": 1,
+    "lastLoginDate": "2026-08-09"
+  },
+  {
+    "id": 1786247119010,
+    "username": "testuser2",
+    "password": "pass",
+    "streak": 1,
+    "lastLoginDate": "2026-08-09"
+  },
+  {
+    "id": 1786247072310,
+    "username": "vaishu",
+    "password": "1234",
+    "streak": 1,
+    "lastLoginDate": "2026-08-09"
+  }
+]
